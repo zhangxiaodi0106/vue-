@@ -1,0 +1,56 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+}
+
+#login {
+    width: 100%;
+    min-height: 400px;
+   border-radius: 5px;
+}
+#register {
+    width: 100%;
+    min-height: 400px;
+   border-radius: 5px;
+}
+h1 {
+    color: rgba(80, 92, 255, 0.856);
+}
+input {
+    width: 70%;
+    margin-top: 40px;
+    line-height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgba(101, 101, 105, 0.514);
+    font-size:20px;
+    outline: none;
+}
+.times-circle {
+    position: relative;
+    right: 20px;
+}
+#login button,#register button {
+    width: 25%;
+    margin-top: 80px;
+    line-height: 30px;
+    font-size: 20px;
+    color:white;
+    background-color:rgba(80, 92, 255, 0.856) ;
+    border-radius:5%;
+    border: none;
+    cursor:pointer;
+}
+
+.down {
+    display:block;
+    color:rgba(80, 92, 255, 0.856);
+    margin-top:40px
+}
+a {
+    text-decoration: none;
+    
+}
+.router {
+    margin-left: 40px;
+    color: blue;
+}
